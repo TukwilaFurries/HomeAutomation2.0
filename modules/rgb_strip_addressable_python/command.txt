@@ -1,0 +1,6 @@
+loopTime 32
+fadeTime 32
+brightLevel 32
+numColors 32
+colors numColors*24:wq
+
